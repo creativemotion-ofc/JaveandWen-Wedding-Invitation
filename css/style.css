@@ -13,7 +13,7 @@ html, body {
 	height: 100%;
 }
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'cinzel', serif;
 	color: #83b0b9;
 }
 .successalert {
@@ -496,7 +496,7 @@ input, textarea {
 }
 .the-people h4 {
 	color: #000;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'cinzel', serif;
 }
 .the-people p {
 	color: #000;
@@ -819,7 +819,7 @@ input, textarea {
 	background-color: #fff;
 }
 .ceremony-detail h5 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'cinzel', serif;
 	font-weight: 400;
 	color: #f0394d;
 	text-transform: uppercase;
@@ -1205,7 +1205,7 @@ ul.resp-tabs-list, p {
 	border-top: 10px solid #f0394d;
 }
 .the-people-s2 h4 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'cinzel', sans-serif;
 	font-size: 24px;
 	font-weight: 400;
 }
@@ -1980,7 +1980,7 @@ h2.resp-accordion {
 h2.resp-accordion {
 	font-size: 16px;
 	text-align: center;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'cinzel', sans-serif;
 	text-transform: uppercase;
 	color: #000;
 	letter-spacing: 4px;
